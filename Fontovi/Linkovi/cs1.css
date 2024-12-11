@@ -1,0 +1,12 @@
+#prvi {
+    background-color: green;
+}
+ #drugi {
+    background-color: red;
+}
+ #treci {
+    background-color: yellow;
+}
+ a:hover {
+     background-color: transparent;
+ }
