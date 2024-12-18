@@ -1,0 +1,8 @@
+ol {
+    list-style-position: inside;
+    background: green;
+    list-style-image: url("Images/nin.png");
+}
+ol li {
+    background: gray;
+}
