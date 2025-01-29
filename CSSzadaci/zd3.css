@@ -1,0 +1,12 @@
+#e {
+    height: 400px;
+    width: 400px;
+    float: left;
+    margin: 20px;
+}
+#i {
+    height: 400px;
+    width: 400px;
+    float: right;
+    margin: 20px;
+}
